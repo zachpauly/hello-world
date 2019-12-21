@@ -1,1 +1,1 @@
-# luscious-lou
+# luscious-lou renamed the repository
